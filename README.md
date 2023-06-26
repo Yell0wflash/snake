@@ -16,6 +16,3 @@ npm start
 ```
 npm run build
 ```
-
-Snake game graphic courtesy of
-[Guillaume Chéreau](http://blog.noctua-software.com/).
