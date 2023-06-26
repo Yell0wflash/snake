@@ -2,6 +2,8 @@
 
 # Snake
 
+##![Live Demo](https://flash-cube-snake.web.app)
+
 3D self-playing snake game
 
 ### Develop
