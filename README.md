@@ -2,7 +2,7 @@
 
 # Snake
 
-##![Live Demo](https://flash-cube-snake.web.app)
+![Live Demo](https://flash-cube-snake.web.app)
 
 3D self-playing snake game
 
